@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sub3 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-sub3@deno/mod.js';
+import sub3 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-sub3@v0.1.0-deno/mod.js';
 ```
 
 #### sub3( x, y, z )
@@ -99,7 +99,7 @@ v = sub3( NaN, NaN, NaN );
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import sub3 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-sub3@deno/mod.js';
+import sub3 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-sub3@v0.1.0-deno/mod.js';
 
 var x = discreteUniform( 100, -50, 50 );
 var y = discreteUniform( 100, -50, 50 );
