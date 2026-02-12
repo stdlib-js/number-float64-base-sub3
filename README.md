@@ -299,7 +299,6 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/number-float64-base-sub3/main/LICENSE
 
-
 </section>
 
 <!-- /.links -->
